@@ -55,6 +55,22 @@
       "type": "outcome",
       "createdAt": "2023-01-04T00:48:23.588Z",
       "id": 7
+    },
+    {
+      "category": "Mercado",
+      "description": "Leita da Pietra",
+      "price": 5669,
+      "type": "outcome",
+      "createdAt": "2023-01-05T16:35:32.945Z",
+      "id": 8
+    },
+    {
+      "category": "Trabalho",
+      "description": "Desenvolvimento de app",
+      "price": 900062,
+      "type": "income",
+      "createdAt": "2023-01-05T16:36:14.711Z",
+      "id": 9
     }
   ]
 }
