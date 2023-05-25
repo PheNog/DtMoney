@@ -1,6 +1,6 @@
 <h1 align="center">DT Money - Organize suas finanças.</h1>
 
-![Capa (2)](https://user-images.githubusercontent.com/104810112/208203315-13acf299-2884-4740-9bb9-6eb0df3a018f.png)
+![image](https://github.com/PheNog/DtMoney/assets/104810112/296791fe-1fee-4de1-98dc-10a7f7729d2b)
 
 ---
 
@@ -16,14 +16,14 @@
 </h4>
  
 ### Sobre o projeto💻
-# ToDoList
+# Dt Money
 Projeto feito para as aulas da trilha de especialização da RocketSeat Ignite, foi proposto que fizessemos um sistema de controle financeiro usando conceitos React como: 
 - Estados
 - Imutabilidade do estado
 - Listas e chaves no ReactJS
 - Propriedades
 - Componentização
-- Melhoria de performance com useCallback, memo e useMemo
+- Melhoria de performance com useCallback, memo, useMemo e useContextSelector
  
 #### Features
 
@@ -40,25 +40,25 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [X] **@radix-ui/react-dialog**
 - [X] **@radix-ui/react-radio-group**
 - [X] **@types/styled-components**
-- [X] [**axios**] (https://www.npmjs.com/package/axios)
-- [X] [**cors**] (https://www.npmjs.com/package/cors)
-- [X] [**react-dom**] (https://www.npmjs.com/package/react-dom)
-- [X] [**react-hook-form**] (https://www.npmjs.com/package/react-hook-form)
-- [X] [**scheduler**] (https://www.npmjs.com/package/scheduler)
-- [X] [**styled-components**] (https://www.npmjs.com/package/styled-components)
-- [X] [**use-context-selector**] (https://www.npmjs.com/package/use-context-selector)
-- [X] [**zod**] (https://www.npmjs.com/package/zod)
+- [X] [**axios**](https://www.npmjs.com/package/axios)
+- [X] [**cors**](https://www.npmjs.com/package/cors)
+- [X] [**react-dom**](https://www.npmjs.com/package/react-dom)
+- [X] [**react-hook-form**](https://www.npmjs.com/package/react-hook-form)
+- [X] [**scheduler**](https://www.npmjs.com/package/scheduler)
+- [X] [**styled-components**](https://www.npmjs.com/package/styled-components)
+- [X] [**use-context-selector**](https://www.npmjs.com/package/use-context-selector)
+- [X] [**zod**](https://www.npmjs.com/package/zod)
 - [X] **@rocketseat/eslint-config**
 - [X] **@types/react**
 - [X] **@types/react-dom**
 - [X] **@vitejs/plugin-react**
-- [X] [**json-server**] (https://www.npmjs.com/package/json-server)
-- [X] [**typescript**] (https://www.npmjs.com/package/typescript)
-- [X] [**vite**] (https://www.npmjs.com/package/vite)
+- [X] [**json-server**](https://www.npmjs.com/package/json-server)
+- [X] [**typescript**](https://www.npmjs.com/package/typescript)
+- [X] [**vite**](https://www.npmjs.com/package/vite)
 
 ___
 ### Layout
-Você pode visualizar o layout do projeto através [Deste link](https://www.figma.com/file/5iw9BxFSupBcu6jJDWnJIA/ToDo-List-(Copy)?node-id=56%3A96&t=HEAwt8XMzTjk5o0E-0). É necessário ter conta no Figma para acessá-lo.
+Você pode visualizar o layout do projeto através [Deste link](https://www.figma.com/community/file/1138814493269096792). É necessário ter conta no Figma para acessá-lo.
 
 ### Como usar
 #### Pré-requisitos
@@ -68,7 +68,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ##### Clone este repositório
 ```bash
-git clone https://github.com/PheNog/ToDoList.git
+git clone https://github.com/PheNog/DtMoney.git
 ```
 ##### Após clonar, acesse as pastas do projeto no terminal/cmd e instale as dependências
 ```bash
