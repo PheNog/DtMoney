@@ -1,4 +1,4 @@
-<h1 align="center">DT Money - Organize suas finanças.</h1>
+<h1 align="center">DT Money - Organize suas finanças. :money_with_wings: </h1>
 
 ![image](https://github.com/PheNog/DtMoney/assets/104810112/296791fe-1fee-4de1-98dc-10a7f7729d2b)
 
@@ -15,7 +15,7 @@
 	 Status: Finalizado.
 </h4>
  
-### Sobre o projeto💻
+### Sobre o projeto :money_with_wings:
 # Dt Money
 Projeto feito para as aulas da trilha de especialização da RocketSeat Ignite, foi proposto que fizessemos um sistema de controle financeiro usando conceitos React como: 
 - Estados
