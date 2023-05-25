@@ -72,7 +72,6 @@ export function NewTransactionModal() {
                         control={control}
                         name="type"
                         render={(props) => {
-                            console.log(props)
                             return (
                                 <TransactionType onValueChange={props.field.onChange} value={props.field.value} >
                                     <TransactionTypeButton value='income' >

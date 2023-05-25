@@ -1,4 +1,4 @@
-<h1 align="center">ToDo List</h1>
+<h1 align="center">DT Money - Organize suas finanças.</h1>
 
 ![Capa (2)](https://user-images.githubusercontent.com/104810112/208203315-13acf299-2884-4740-9bb9-6eb0df3a018f.png)
 
@@ -17,28 +17,44 @@
  
 ### Sobre o projeto💻
 # ToDoList
-Projeto feito para as aulas da trilha de especialização da RocketSeat Ignite, foi proposto que fizessemos um sistema de listas de afazeres usando conceitos React como: 
+Projeto feito para as aulas da trilha de especialização da RocketSeat Ignite, foi proposto que fizessemos um sistema de controle financeiro usando conceitos React como: 
 - Estados
 - Imutabilidade do estado
 - Listas e chaves no ReactJS
 - Propriedades
 - Componentização
+- Melhoria de performance com useCallback, memo e useMemo
  
 #### Features
 
-- [X] Adicionar uma tarefa na lista
-- [X] Remover tarefa da lista
-- [X] Marcar tarefa como concluida
-- [X] Mostrar o progresso de conclusão das tarefas
+- [X] Adicionar uma transação de entrada utilizando uma requisição http para um JSON server.
+- [X] Adicionar uma transação de saída utilizando uma requisição http para um JSON server.
+- [X] Colocar descrição, preço e categoria.
+- [X] Visualização do historico e valor atual de entradas e saidas
 
-#### Tecnologias
+#### Tecnologias / Bibliotecas / Pacotes
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [x] [TypeScript](https://www.typescriptlang.org/).
-- [x] [Reactjs](https://reactjs.org/)
-- [x] [Vite](https://vitejs.dev)
-
+- [X] **@hookform/resolvers**
+- [X] **@radix-ui/react-dialog**
+- [X] **@radix-ui/react-radio-group**
+- [X] **@types/styled-components**
+- [X] [**axios**] (https://www.npmjs.com/package/axios)
+- [X] [**cors**] (https://www.npmjs.com/package/cors)
+- [X] [**react-dom**] (https://www.npmjs.com/package/react-dom)
+- [X] [**react-hook-form**] (https://www.npmjs.com/package/react-hook-form)
+- [X] [**scheduler**] (https://www.npmjs.com/package/scheduler)
+- [X] [**styled-components**] (https://www.npmjs.com/package/styled-components)
+- [X] [**use-context-selector**] (https://www.npmjs.com/package/use-context-selector)
+- [X] [**zod**] (https://www.npmjs.com/package/zod)
+- [X] **@rocketseat/eslint-config**
+- [X] **@types/react**
+- [X] **@types/react-dom**
+- [X] **@vitejs/plugin-react**
+- [X] [**json-server**] (https://www.npmjs.com/package/json-server)
+- [X] [**typescript**] (https://www.npmjs.com/package/typescript)
+- [X] [**vite**] (https://www.npmjs.com/package/vite)
 
 ___
 ### Layout
@@ -60,8 +76,9 @@ npm install
 # ou npm i
 ```
 
-##### Para executar o projeto, rode o seguinte comando na pasta raíz:
+##### Para executar o projeto, rode os seguintes comandos na pasta raíz:
 ```bash
-npm run dev
+npm run dev  (Inicializa o app)
+npm run dev:server (Inicializa o JSON server)
 ```
 ___
